@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/OWNER/REPO/releases/download/v1.2.0/GerLog-1.2.0.exe",
+  "mandatory": false,
+  "releaseNotes": "Bug fixes and performance improvements"
+}
