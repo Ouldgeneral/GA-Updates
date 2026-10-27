@@ -1,6 +1,10 @@
 {
   "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/Ouldgeneral/GA-Updates/refs/heads/main/GerLog-1.2.0.json",
-  "mandatory": false,
-  "releaseNotes": "Bug fixes and performance improvements"
+  "size": "203.4",
+  "releaseNotes":{ 
+
+"fr":"Bug fixes and performance improvements",
+"ar":"تعديل الصور مرحبا بيك في أي وقت الفطور الجمعة الجاية ان شاء الله الرحمن الرحيم إن هذا تاريخ  حساب الطابلة و دفعاتها من طرف الوكيل الحالي مالك ولد حمدي الجميع رأس المال البضاعة المستلمة الجملة السعر الكميه البضاعة كابل ديمي موتير "
+}
 }
